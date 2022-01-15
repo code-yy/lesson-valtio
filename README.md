@@ -1,6 +1,6 @@
 # Valtio
 
-GitHub : [valtio]("https://github.com/pmndrs/valtio")
+GitHub : https://github.com/pmndrs/valtio
 
 ## Technology Stack
 
